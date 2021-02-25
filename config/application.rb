@@ -21,5 +21,6 @@ module ChatApp
       g.javascripts false
       g.helper false
       g.test_framwork false
+    end
   end
 end
